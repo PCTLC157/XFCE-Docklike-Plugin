@@ -1,4 +1,6 @@
 #!/bin/bash
+#Tested with Peppermint based on Debian 11
+#Version 1.0
 cd ~/Downloads
 sudo apt update && sudo apt upgrade
 sudo apt install wget xorg-dev libglib2.0-cil-dev golang-gir-gio-2.0-dev libgtk-3-dev libwnck-3-dev libxfce4ui-2-dev libxfce4panel-2.0-dev intltool
